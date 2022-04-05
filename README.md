@@ -40,16 +40,13 @@
 <hr>
 
 
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronbiscotti&show_icons=true)](https://github.com/aaronbiscotti)
+[![Aaron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaronbiscotti&show_icons=true)](https://github.com/aaronbiscotti)
 
 <br/>
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronbiscotti&show_icons=true)
 
 <br><br>
 
