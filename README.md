@@ -2,7 +2,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronbiscotti&show_icons=true)
+![Top Langs](https://github-readme-stats-wheat-omega-52.vercel.app/api/top-langs/?username=aaronbiscotti&show_icons=true)
 
 <br><br>
 
